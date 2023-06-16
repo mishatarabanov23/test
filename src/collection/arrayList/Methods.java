@@ -35,5 +35,6 @@ public class Methods {
         if (arrayList1.remove("Alex"))
             System.out.println("Удалили Alex");
         System.out.println(arrayList1);
+        System.out.println("Misha");
     }
 }
